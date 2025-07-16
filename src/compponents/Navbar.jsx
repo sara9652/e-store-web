@@ -15,7 +15,7 @@ const totalItems = (cartItems ?? []).reduce((sum, item) => sum + item.quantity, 
             placeholder=' 🔍 Search Products . . . .' 
             className='p-3 text-base bg-blue-100 rounded-md w-1/2 focus:outline-none'  />
 
-            <button className='relative text-white text-3xl cursor-pointer ' 
+            <button className='relative text-white text-3xl cursor-pointer ml-5' 
             onClick={()=>setIsCartOpen((prev)=>!prev)}
             >🛒 
               {totalItems>0 && <span className='absolute -top-2 right-2 bg-amber-400 px-2 py-1 rounded-full text-sm' >{totalItems}</span>}

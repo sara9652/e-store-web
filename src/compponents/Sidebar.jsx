@@ -18,7 +18,7 @@ const Sidebar = ({
   const maxPrice = Math.max(...productsData.products.map((p) => p.price));
 
   return (
-    <div className=" bg-blue-200 p-4 h-[calc(100vh-4rem)] sticky top-16 overflow-y-auto w-48 shadow-md">
+    <div className=" bg-blue-200 p-4 h-[calc(100vh-4rem)] sticky top-16 overflow-y-auto w-44 shadow-md">
       <h1 className="text-xl font-semibold mb-6 text-blue-500">Filter</h1>
 
       {/* Product Categories select */}
