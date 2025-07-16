@@ -1,0 +1,167 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "brands":"Airpods", 
+            "name" :"Airpods",
+            "color" : "🤍 white",
+            "price" : 14920,
+            "image" : "./src/assets/headphone2.jpg",
+            "show" : true
+        },
+        {
+            "id" : 2,
+            "name" :"Headphone",
+            "brands" :"Headphones",
+            "color" : "🖤 Black",
+            "price" : 1522,
+            "image" : "./src/assets/headphone3.jpg",
+            "show" : true
+        },
+        {
+            "id" : 3,
+            "name" :"Shoe",
+            "brands":"Shoes",
+            "color" : "🤎 Brown",
+            "price" : 999,
+            "image" : "./src/assets/shoe1.jpg",
+            "show" : true
+        },
+        {
+            "id" : 4,
+            "name" :"Apple Smart Watch",
+            "brands":"Watch",
+            "color" : "🖤 Black",
+            "price" : 24690,
+            "image" : "./src/assets/smartwatech.jpg",
+            "show" : true
+        },
+        {
+            "id" : 5,
+            "name" :"Gucci Perfume",
+            "brands":"Perfumes",
+            "color" : "💚  Rich Green",
+            "price" : 567,
+            "image" : "./src/assets/gucci.jpg",
+            "show" : true
+        },
+        {
+            "id" : 6,
+            "name" :"Tshits 6 pcs",
+            "brands":"Tshirts",
+            "color" : "🎨 Multi color",
+            "price" : 720,
+            "image" : "./src/assets/tshirts1.jpg",
+            "show" : true
+        },
+        {
+            "id" : 7,
+            "name" :"SEJKO Watch",
+            "brands":"Watch",
+            "color" : "💙 Blue",
+            "price" : 5126,
+            "image" : "./src/assets/watch1.jpg",
+            "show" : true
+        },
+        {
+            "id" : 8,
+            "name" :"Amazon Speaker",
+            "brands":"Speakers",
+            "color" : "🩶 Grey",
+            "price" : 2999,
+            "image" : "./src/assets/speaker.jpg",
+            "show" : true
+        },
+        {
+            "id" : 9,
+            "name" :"Headphone",
+            "brands" :"Headphones",
+            "color" : "💛 Gold",
+            "price" : 3999,
+            "image" : "./src/assets/headphone4.jpg",
+            "show" : true
+        },
+        {
+            "id" : 10,
+            "name" :"Perfume",
+            "brands":"Perfumes",
+            "color" : "🧡 Light Orange",
+            "price" : 699,
+            "image" : "./src/assets/perfume1.jpg",
+            "show" : true
+        },
+        {
+            "id" : 11,
+            "name" :"Nike Shoe",
+            "brands":"Shoes",
+            "color" :"🖤 Black",
+            "price" : 4920,
+            "image" : "./src/assets/shoe2.jpg",
+            "show" : true
+        },
+        {
+            "id" : 12,
+            "name" :"Tshit",
+            "brands":"Tshirts",
+            "color" : "🤍 white",
+            "price" : 199,
+            "image" : "./src/assets/tshits2.jpg",
+            "show" : true
+        },
+        {
+            "id" : 13,
+            "name" :"Watch",
+            "brands":"Watch",
+            "color" : "🩷 Lightpink",
+            "price" : 999,
+            "image" : "./src/assets/watch2.jpg",
+            "show" : true
+        },
+        {
+            "id" : 14,
+            "name" :"Headphone",
+            "brands" :"Headphones",
+            "color" : "🖤 Black",
+            "price" : 5220,
+            "image" : "./src/assets/hedphone1.jpg",
+            "show" : true
+        },
+        {
+            "id" : 15,
+            "name" :"Shoe",
+            "color" : "🎨 Multi color",
+            "brands":"Shoes",
+            "price" :7998,
+            "image" : "./src/assets/shoe3.jpg",
+            "show" : true
+        },
+        {
+            "id" : 16,
+            "name" :"Smart Watch",
+            "brands":"Watch",
+            "color" : "🖤 Black",
+            "price" : 399,
+            "image" : "./src/assets/smartwhtch1.jpg",
+            "show" : true
+        },
+        {
+            "id" : 17 ,
+            "name" :"Formal shoe",
+            "color" : "🤎 Brown",
+            "brands":"Shoes",
+            "price" : 1999,
+            "image" : "./src/assets/shoe4.jpg",
+            "show" : true
+        },
+        {
+            "id" : 18,
+            "name" :"Morden Shoe",
+            "brands":"Shoes",
+            "color" : "🎨 Multi color",
+            "price" : 9999,
+            "image" : "./src/assets/shoe5.jpg",
+            "show" : true
+        }
+        
+    ]
+}
