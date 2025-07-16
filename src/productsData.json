@@ -6,7 +6,7 @@
             "name" :"Airpods",
             "color" : "🤍 white",
             "price" : 14920,
-            "image" : "./src/assets/headphone2.jpg",
+            "image" : "/assets/headphone2.jpg",
             "show" : true
         },
         {
@@ -15,7 +15,7 @@
             "brands" :"Headphones",
             "color" : "🖤 Black",
             "price" : 1522,
-            "image" : "./src/assets/headphone3.jpg",
+            "image" : "/assets/headphone3.jpg",
             "show" : true
         },
         {
@@ -24,7 +24,7 @@
             "brands":"Shoes",
             "color" : "🤎 Brown",
             "price" : 999,
-            "image" : "./src/assets/shoe1.jpg",
+            "image" : "/assets/shoe1.jpg",
             "show" : true
         },
         {
@@ -33,7 +33,7 @@
             "brands":"Watch",
             "color" : "🖤 Black",
             "price" : 24690,
-            "image" : "./src/assets/smartwatech.jpg",
+            "image" : "/assets/smartwatech.jpg",
             "show" : true
         },
         {
@@ -42,7 +42,7 @@
             "brands":"Perfumes",
             "color" : "💚  Rich Green",
             "price" : 567,
-            "image" : "./src/assets/gucci.jpg",
+            "image" : "/assets/gucci.jpg",
             "show" : true
         },
         {
@@ -51,7 +51,7 @@
             "brands":"Tshirts",
             "color" : "🎨 Multi color",
             "price" : 720,
-            "image" : "./src/assets/tshirts1.jpg",
+            "image" : "/assets/tshirts1.jpg",
             "show" : true
         },
         {
@@ -60,7 +60,7 @@
             "brands":"Watch",
             "color" : "💙 Blue",
             "price" : 5126,
-            "image" : "./src/assets/watch1.jpg",
+            "image" : "/assets/watch1.jpg",
             "show" : true
         },
         {
@@ -69,7 +69,7 @@
             "brands":"Speakers",
             "color" : "🩶 Grey",
             "price" : 2999,
-            "image" : "./src/assets/speaker.jpg",
+            "image" : "/assets/speaker.jpg",
             "show" : true
         },
         {
@@ -78,7 +78,7 @@
             "brands" :"Headphones",
             "color" : "💛 Gold",
             "price" : 3999,
-            "image" : "./src/assets/headphone4.jpg",
+            "image" : "/assets/headphone4.jpg",
             "show" : true
         },
         {
@@ -87,7 +87,7 @@
             "brands":"Perfumes",
             "color" : "🧡 Light Orange",
             "price" : 699,
-            "image" : "./src/assets/perfume1.jpg",
+            "image" : "/assets/perfume1.jpg",
             "show" : true
         },
         {
@@ -96,7 +96,7 @@
             "brands":"Shoes",
             "color" :"🖤 Black",
             "price" : 4920,
-            "image" : "./src/assets/shoe2.jpg",
+            "image" : "/assets/shoe2.jpg",
             "show" : true
         },
         {
@@ -105,7 +105,7 @@
             "brands":"Tshirts",
             "color" : "🤍 white",
             "price" : 199,
-            "image" : "./src/assets/tshits2.jpg",
+            "image" : "/assets/tshits2.jpg",
             "show" : true
         },
         {
@@ -114,7 +114,7 @@
             "brands":"Watch",
             "color" : "🩷 Lightpink",
             "price" : 999,
-            "image" : "./src/assets/watch2.jpg",
+            "image" : "/assets/watch2.jpg",
             "show" : true
         },
         {
@@ -123,7 +123,7 @@
             "brands" :"Headphones",
             "color" : "🖤 Black",
             "price" : 5220,
-            "image" : "./src/assets/hedphone1.jpg",
+            "image" : "/assets/hedphone1.jpg",
             "show" : true
         },
         {
@@ -132,7 +132,7 @@
             "color" : "🎨 Multi color",
             "brands":"Shoes",
             "price" :7998,
-            "image" : "./src/assets/shoe3.jpg",
+            "image" : "/assets/shoe3.jpg",
             "show" : true
         },
         {
@@ -141,7 +141,7 @@
             "brands":"Watch",
             "color" : "🖤 Black",
             "price" : 399,
-            "image" : "./src/assets/smartwhtch1.jpg",
+            "image" : "/assets/smartwhtch1.jpg",
             "show" : true
         },
         {
@@ -150,7 +150,7 @@
             "color" : "🤎 Brown",
             "brands":"Shoes",
             "price" : 1999,
-            "image" : "./src/assets/shoe4.jpg",
+            "image" : "/assets/shoe4.jpg",
             "show" : true
         },
         {
@@ -159,7 +159,7 @@
             "brands":"Shoes",
             "color" : "🎨 Multi color",
             "price" : 9999,
-            "image" : "./src/assets/shoe5.jpg",
+            "image" : "/assets/shoe5.jpg",
             "show" : true
         }
         
